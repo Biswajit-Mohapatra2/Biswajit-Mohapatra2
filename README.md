@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Biswajit Mohapatra</h1>
 <h3 align="center">I am an Engineering undergrad student who is currently learning and writing about Cloud computing, Automation, Python, Kubernetes, DevOps. I have participated in various open source program and activily contributed to multiple projects.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-mohapatra2&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-mohapatra2" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswajit-mohapatra2" alt="biswajit-mohapatra2" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@biswajit__22" target="blank"><img src="https://img.shields.io/twitter/follow/@biswajit__22?logo=twitter&style=for-the-badge" alt="@biswajit__22" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **CI/CD Pipelining**
 
@@ -17,16 +19,10 @@
 
 - ⚡ Fun fact **I am actually funny**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@biswajit__22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@biswajit__22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/biswajit mohapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswajit mohapatra" height="30" width="40" /></a>
-<a href="https://hashnode.com/@biswajit mohapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@biswajit mohapatra" height="30" width="40" /></a>
-<a href="/https://biswajitblogs.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://biswajitblogs.hashnode.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://hashnode.com/@biswajitblogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@biswajitblogs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
