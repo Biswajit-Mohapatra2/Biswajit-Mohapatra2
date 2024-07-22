@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biswajit Mohapatra</h1>
-<h3 align="center">I am an Engineering undergrad student who is currently learning and writing about Cloud computing, Automation, Python, Kubernetes, DevOps. I have participated in various open source program and activily contributed to multiple projects.</h3>
+<h3 align="center">I am an Engineering graduate student who is currently learning and writing about Cloud computing, Automation, Python, Kubernetes, DevOps. I have participated in various open source program and activily contributed to multiple projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit-mohapatra2&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit-mohapatra2" /> </p>
 
